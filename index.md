@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Center for Ancient History and Science
 
-You can use the [editor on GitHub](https://github.com/cahcblr/cahcblr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Center for Ancient History and Culture (CAHC) carries out research on ancient history of India as a wide ranging cultural heritage with focus on the intellectual traditions encompassing arts and science, and be a credible source of such information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CAHC was started in the year 2011. It provides an interdisciplinary platform for historians, Sanskritists, artists and scientists to study ancient knowledge systems of India. The Centre aims at editing unpublished manuscripts on positive sciences and to study history of science in India. Some of the activities of the center are academic while the others are interactive and participative in nature. Through its outreach activities CAHC likes to inculcate, among the university students, appreciation for the cultural heritage of India with contemporary relevance. 
 
-### Markdown
+## Professor Rangachar Narayana Iyengar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![RNI](./assets/rni.jpg)
 
-```markdown
-Syntax highlighted code block
+Prof RNI is  Director of the Center for Ancient History and Culture (CAHC) at the [jain university](https://en.wikipedia.org/wiki/Jain_University) since 2012 and is actively working on research in the area of History of Science in India.
 
-# Header 1
-## Header 2
-### Header 3
+R N Iyengar joined the Indian Institute of Science (IISc), Bangalore as Master's student and obtained his M.Sc. (Engineering) (1966) and PhD (1970) from IISc. His PhD thesis on stochastic modeling of earthquake loads was the first doctoral thesis in the country in the area of random vibrations.] He joined IISc as a faculty member in 1969 and became a Professor in 1986. Until his retirement, he was the KSIIDC Chair Professor in the Department of Civil Engineering and also Professor in Center for Atmospheric and Oceanic Sciences at the Indian Institute of Science, Bangalore.
 
-- Bulleted
-- List
+After his retirement from IISc, he joined Jain University and was instrumental in setting up the UL-Jain Fire Laboratory (UL-JFL). The UL-JFL is a state-of-art engineering laboratory devoted to fire safety education and research that will promote industry academia interaction, contributing to mitigation of fire hazard in the Indian habitat.
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
+319, 25th Main, KR Layout
+JP Nagar 6th Phase
+Bengaluru - 560078
+[Google maps](https://drive.google.com/open?id=1Dp7qufIxhb_8Tal4HVaSCwpPSy0pddLEh73hWgrRxYg)
 
-[Link](url) and ![Image](src)
-```
+Tel +91 80 2671 1119
+cahcblr@gmail.com 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Center for Ancient History and Culture**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cahcblr/cahcblr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
