@@ -1,4 +1,4 @@
-## Welcome to Center for Ancient History and Culture
+## Welcome to the Center for Ancient History and Culture
 
 The Center for Ancient History and Culture (CAHC) carries out inter-disciplinary research on India's ancient cultural & intellectual heritage.
 
